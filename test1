@@ -1,0 +1,65 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href=style.css>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"
+</head>
+  <body>
+    <div class="intro">
+      <h1>Credit Cards</h1>
+      <p>Choose a card for purchases, transfers or rewards.</p>
+    </div>
+    <div class="cards">
+      <img src="card1.jpeg" alt="Example card" width="350" height="200">
+      <h2>3 Year Fixed Rate Credit Card</h2>
+      <p><strong>6.9%</strong> fixed interest a year, for 3 years, on purchas and balance transfers. </p>
+      <ul>
+        <li>Can be used for both purchases and balance transfers</li>
+        <li>No annual or balance transfer fees</li>
+        <li>We don't change your rate if you make a late payment</li>
+      </ul>
+      <h2>Representative example</h2>
+      <p><strong>18.3% APR</strong> representative (variable). Based on assumed credit limit of <strong>£1200</strong> and a purchase rate of <strong>18.3%</strong> p.a. (variable).</p>
+
+      <p><button name="btn1" type="button">Learn more & apply</button></p>
+
+      <img src="card1.jpeg" alt="Example card" width="350" height="200">
+      <h2>Balance Transfer credit card </h2>
+      <p><strong> 0% </strong> interest on balance transfers for 24 months from balance to transfer date.</p>
+      <ul>
+        <li>Pay back your exisiting credit card balances from one place</li>
+        <li>Transfer your balance up to 60 days after account opening</li>
+        <li>No annual fees</li>
+        <li class= "info-bullet"> There is a 1% balance transfer fee (minimum charge £5)</li>
+      </ul>
+      <h2>Representative example</h2>
+      <p> <strong>20.6% APR</strong> representative (variable). Based on assumed credit limit of <strong>£1200</strong> and a purchase rate of <strong>20.6%</strong> p.a. (variable).</p>
+      <p><button name="btn2" type="button">Learn more & apply</button></p>
+
+      <img src="card1.jpeg" alt="Example card" width="350" height="200">
+      <h2>The Co-operative Members' Credit Card </h2>
+      <p><strong>18.3%</strong> interest per annum on purchases and balance transfers.</p>
+      <ul>
+        <li>A credit card for Co-operative members</li>
+        <li>Cashback on all your credit card purchases</li>
+        <li>No annual fees</li>
+      </ul>
+      <h2>Representative example</h2>
+      <p><strong>18.3% APR</strong> representative (variable). Based on assumed credit limit of <strong>£1200</strong> and a purchase rate of <strong>18.3%</strong> p.a. (variable).</p>
+      <p><button name="btn3" type="button">Learn more & apply</button></p>
+
+      <h2>Compare our credit cards </h2>
+      <p> Find out which credit card may be best for you </p>
+      <a href="someurl.com"> Credit card comparison table </a>
+    </div>
+
+    <div class="furtherinfo">
+      <h2> Help & advice </h2>
+      <p> There's lots more information about credit cards in our information hub.</p>
+      <p><a href="https://www.co-operativebank.co.uk/creditcards?int_cmp=producticons_our-products_creditcards"> More information about credit cards </a></p>
+      <p>The Co-operative Bank reserves the right to decline any application.</p>
+      <p>Whether we can offer you credit depends on your circumstances and our lending policy.</p>
+      <p>We may decline your application based on your circumstances or our lending policy.</p>
+      <p>Approval is subject to status and based on a credit check and an assessment of your personal circumstances.</p>
+    </div>
+    </body>
+</html>
